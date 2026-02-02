@@ -98,7 +98,7 @@ WhatsApp / Telegram / Slack / Discord / Google Chat / Signal / iMessage / BlueBu
 
 - **[Gateway WebSocket network]** — single WS control plane for clients, tools, and events (plus ops: [Gateway runbook]).
 - **[Tailscale exposure]** — Serve/Funnel for the Gateway dashboard + WS (remote access: [Remote]).
-- **[Browser control]** — openclaw‑managed Chrome/Chromium with CDP control.
+- **[Browser control]** — managed Chrome/Chromium with CDP control.
 - **[Canvas + A2UI]** — agent‑driven visual workspace (A2UI host: [Canvas/A2UI]).
 - **[Voice Wake] + [Talk Mode]** — always‑on speech and continuous conversation.
 - **[Nodes]** — Canvas, camera snap/clip, screen record, `location.get`, notifications, plus macOS‑only `system.run`/`system.notify`.
